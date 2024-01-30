@@ -1,5 +1,8 @@
 # Git Command - Version Control Tool
 
+Note: enter "q" when command line interface is full and disable you from typing.
+
+
 __1. Configures username and email__
 ```git
 git config --global user.name "username"
